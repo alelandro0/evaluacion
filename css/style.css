@@ -1,0 +1,48 @@
+body{
+    background-color: #F2F2F2;
+    text-align: center;
+}
+.titulo{
+color:#B7699D ;
+font-size: 60px;
+}
+.primero{
+    box-shadow: 0px 0px 10px 0px #DAD0D8;
+    width: 350px;
+    height: 500px;
+    background-color: white;
+    float: left;
+    margin-left: 350px;
+}
+.img1, .img2, .img3{
+    margin-top: 25px;
+}
+.parrafo{
+    text-align:left;
+    padding: 23px;
+}   
+.cajatitulo{
+font-size:28px;
+}
+.segundo{
+    box-shadow: 0px 0px 10px 0px #DAD0D8;
+    width: 350px;
+    height: 550px;
+    background-color: white;
+    float: right;
+    margin-right:73px ;
+    margin-top: 220px;
+   
+
+  
+   
+}
+.tercero{
+    box-shadow: 0px 0px 10px 0px #DAD0D8;
+    width: 350px;
+    height: 500px;
+    background-color: white;
+    float: right;
+    margin-right: 350px;
+
+}
